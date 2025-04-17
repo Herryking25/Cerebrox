@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Recoleta Alt Black';
+  src: url('../public/fonts/Recoleta Alt Black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt Bold';
+  src: url('../public/fonts/Recoleta Alt Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt Light';
+  src: url('../public/fonts/Recoleta Alt Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt Medium';
+  src: url('../public/fonts/Recoleta Alt Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt Regular';
+  src: url('../public/fonts/Recoleta Alt Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt SemiBold';
+  src: url('../public/fonts/Recoleta Alt SemiBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Alt Thin';
+  src: url('../public/fonts/Recoleta Alt Thin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Black';
+  src: url('../public/fonts/Recoleta Black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Bold';
+  src: url('../public/fonts/Recoleta Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Light';
+  src: url('../public/fonts/Recoleta Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Medium';
+  src: url('../public/fonts/Recoleta Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Regular';
+  src: url('../public/fonts/Recoleta Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta SemiBold';
+  src: url('../public/fonts/Recoleta SemiBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Recoleta Thin';
+  src: url('../public/fonts/Recoleta Thin.otf') format('opentype');
+}
+
+
+.font-recoletaNormal {
+  font-family: 'Recoleta Alt', serif;
+}
+
+.font-recoletaBold {
+  font-family: 'Recoleta Alt Bold', serif;
+}
+
+.font-recoletaRegular {
+  font-family: 'Recoleta Regular', serif;
+}
+.font-recoletaMedium {
+  font-family: 'Recoleta Medium', serif;
+}
+  
+
+
+
